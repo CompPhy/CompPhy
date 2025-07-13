@@ -11,7 +11,7 @@ Senior Infrastructure Engineer with 25+ years of experience leading hybrid cloud
 ### 🧰 Technical Skills  
 
 **Cloud & DevOps:** AWS, Azure, Kubernetes, Jenkins, GitOps, CI/CD, Ansible Automation Platform, RedHat Satellite  
-**Systems & Platforms:** Linux (RedHat), Windows Server, VMWare vSphere, Dell/HPE servers, Sonicwall, Juniper  
+**Systems & Platforms:** Linux (RedHat), Windows Server, VMWare vSphere, Veeam, Dell/HPE servers, Sonicwall, Juniper  
 **Scripting & Tools:** Bash, Python, C#, PowerShell, Ansible, Gitea, Github  
 **Networking & Security:** Cisco ASA, Juniper, Sonicwall, VPN, Zabbix Monitoring  
 **Soft Skills:** Leadership, Team Collaboration, Technical Mentorship
@@ -26,7 +26,7 @@ Senior Infrastructure Engineer with 25+ years of experience leading hybrid cloud
 - Architected high-availability infrastructure and automated provisioning processes—boosted uptime to 99.9%.  
 - Spearheaded deployment automation using Ansible and RedHat Satellite, reducing rollout times by 40%.  
 - Migrated workloads to Kubernetes, decreasing maintenance overhead by 60%.  
-- Led a team of 5 engineers across both internal and B2B system design, support, and implementation.  
+- Led a team of 4 engineers across both internal and B2B system design, support, and implementation.  
 - Managed private cloud hosting solutions via AWS and Azure.
 
 **Sr. Systems Administrator**  

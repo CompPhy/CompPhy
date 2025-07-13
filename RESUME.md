@@ -13,7 +13,7 @@ Senior Infrastructure Engineer with 25+ years of experience leading hybrid cloud
 **Cloud & DevOps:** AWS, Azure, Kubernetes, Jenkins, GitOps, CI/CD, Ansible Automation Platform, RedHat Satellite  
 **Systems & Platforms:** Linux (RedHat), Windows Server, VMWare vSphere, Dell/HPE servers, Sonicwall, Juniper  
 **Scripting & Tools:** Bash, Python, C#, PowerShell, Ansible, Gitea, Github  
-**Networking & Security:** Cisco ASA, Juniper, Sonicwall, VPN, Zabbix Monitoring
+**Networking & Security:** Cisco ASA, Juniper, Sonicwall, VPN, Zabbix Monitoring  
 **Soft Skills:** Leadership, Team Collaboration, Technical Mentorship
 
 ---

@@ -23,7 +23,7 @@ Senior Infrastructure Engineer with 25+ years of experience leading hybrid cloud
 **IT Infrastructure Manager**  
 *Vargo – Columbus, OH*  
 *Apr 2009 – Present*  
-- Architected high-availability infrastructure and automated provisioning processes—boosted uptime to 99.99%.  
+- Architected high-availability infrastructure and automated provisioning processes—boosted uptime to 99.9%.  
 - Spearheaded deployment automation using Ansible and RedHat Satellite, reducing rollout times by 40%.  
 - Migrated workloads to Kubernetes, decreasing maintenance overhead by 60%.  
 - Led a team of 5 engineers across both internal and B2B system design, support, and implementation.  
